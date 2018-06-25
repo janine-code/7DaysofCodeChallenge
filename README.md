@@ -1,2 +1,2 @@
 # 7DaysofCodeChallenge
-7 Days of CodeChallenge Android
+7 Days of CodeChallenge Android project:
